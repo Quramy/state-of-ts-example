@@ -479,7 +479,7 @@ https://raw.githubusercontent.com/Quramy/state-of-ts-example/main/data/tools-dat
 
 ---
 
-追加問題 2
+追加問題 1
 
 各年度に対して、TypeScript を利用しているユーザーの満足度をグラフ化してください。
 
@@ -487,7 +487,7 @@ https://raw.githubusercontent.com/Quramy/state-of-ts-example/main/data/tools-dat
 
 ---
 
-追加問題 1
+追加問題 2
 
 React, Vue.js, Angular について、利用者人数の比率をグラフ化してください。
 
