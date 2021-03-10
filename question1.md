@@ -56,7 +56,7 @@
 
 ---
 
-<img src="https://github.com/Quramy/state-of-ts-example/raw/main/question1_image.png" />
+<img src="https://raw.githubusercontent.com/Quramy/state-of-ts-example/main/question1_image.png" />
 
 ---
 
@@ -308,25 +308,25 @@ const exampleDataSet = [
 ]; // 後で本物のデータに差し替える
 
 function filterDataset(dataSet) {
-  // bucketsの要素は、その技術要素を「使ったことがある, 使ったことは無いが何かは知っている, 何のことか知らない」と回答した人の人数と割合を表している
-  // ここでは「何のことかしらない」と回答した人の比率が15% 以上のデータに絞り込む
-  const filtered = dataSet.filter(data => {
-    return data.experience.latestYearData.bucket[2].percentage >= 15;
-  });
+// buckets の要素は、その技術要素を「使ったことがある, 使ったことは無いが何かは知っている, 何のことか知らない」と回答した人の人数と割合を表している
+// ここでは「何のことかしらない」と回答した人の比率が 15% 以上のデータに絞り込む
+const filtered = dataSet.filter(data => {
+return data.experience.latestYearData.bucket[2].percentage >= 15;
+});
 
-  // TODO 後でソートする!!
-  return filtered;
+// TODO 後でソートする!!
+return filtered;
 }
 
 function fetchData() {
-  // TODO 後で調査データを fetch API で取得するように書き換える！！
-  return exampleDataSet;
+// TODO 後で調査データを fetch API で取得するように書き換える！！
+return exampleDataSet;
 }
 
 function main() {
-  const dataSet = fetchData();
+const dataSet = fetchData();
 
-  console.log(filterDataset(dataSet).map(item => item.name));
+console.log(filterDataset(dataSet).map(item => item.name));
 }
 
 main();
@@ -454,3 +454,41 @@ console.log(graph);
 ---
 
 ## お疲れさまでした！
+
+---
+
+## (余力がある人向け)
+
+---
+
+あなたの仕事の出来にボスも大変満足しています。
+
+しかし、予定よりも速くボスにグラフを提出してしまったがために、ボスからさらなる仕事を押し付けられてしまいまた。。。
+
+---
+
+JavaScript 製のさまざまなライブラリについてのサーベイ結果について、追加問題で与えられる要件を読み、グラフ化してください。
+
+グラフの描画には `renderBarGraph` 関数をそのまま使ってください。
+
+---
+
+ライブラリサーベイのデータ格納先:
+
+https://raw.githubusercontent.com/Quramy/state-of-ts-example/main/data/tools-data.json
+
+---
+
+追加問題 2
+
+各年度に対して、TypeScript を利用しているユーザーの満足度をグラフ化してください。
+
+- ヒント: 満足度は `satisfaction` に格納されています
+
+---
+
+追加問題 1
+
+React, Vue.js, Angular について、利用者人数の比率をグラフ化してください。
+
+- ヒント: ライブラリの利用率は `usage` に格納されています

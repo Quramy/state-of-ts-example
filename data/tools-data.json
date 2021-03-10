@@ -7,7 +7,7 @@
       "description": "A superset of JavaScript that compiles to clean JavaScript output."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -89,7 +89,7 @@
       "description": null
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -157,7 +157,7 @@
       "description": null
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -239,7 +239,7 @@
       "description": "Clojure to JS compiler"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -321,7 +321,7 @@
       "description": "A strongly-typed language that compiles to JavaScript"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -361,7 +361,7 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -443,7 +443,7 @@
       "description": "A progressive, incrementally-adoptable framework for building UI on the web"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -525,7 +525,7 @@
       "description": "One framework. Mobile & desktop."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -607,7 +607,7 @@
       "description": "Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2018,
           "awarenessUsageInterestSatisfaction": {
@@ -661,7 +661,7 @@
       "description": "A JavaScript framework for creating ambitious web applications"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -743,7 +743,7 @@
       "description": "Cybernetically enhanced web apps"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -783,7 +783,7 @@
       "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.\n"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -809,7 +809,7 @@
       "description": "A simple base class for creating fast, lightweight web components"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -835,7 +835,7 @@
       "description": "A modest JavaScript framework for the HTML you already have"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -861,7 +861,7 @@
       "description": "Predictable state container for JavaScript apps"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -943,7 +943,7 @@
       "description": "A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1025,7 +1025,7 @@
       "description": "GraphQL is a query language and execution engine tied to any backend service."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1107,7 +1107,7 @@
       "description": "Simple, scalable state management."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1189,7 +1189,7 @@
       "description": "Relay is a JavaScript framework for building data-driven React applications."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1271,7 +1271,7 @@
       "description": "State machines and statecharts for the modern web."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -1297,7 +1297,7 @@
       "description": "Centralized State Management for Vue.js."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -1323,7 +1323,7 @@
       "description": "Fast, unopinionated, minimalist web framework for node."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -1391,7 +1391,7 @@
       "description": "The React Framework"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2018,
           "awarenessUsageInterestSatisfaction": {
@@ -1445,7 +1445,7 @@
       "description": "Expressive middleware for node.js using ES2017 async functions"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -1513,7 +1513,7 @@
       "description": "Meteor, the JavaScript App Platform"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1595,7 +1595,7 @@
       "description": "Realtime MVC Framework for Node.js"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -1649,7 +1649,7 @@
       "description": "A framework for real-time applications and REST APIs with JavaScript and TypeScript"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1717,7 +1717,7 @@
       "description": "The Intuitive Vue Framework"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -1743,7 +1743,7 @@
       "description": "Build blazing fast, modern apps and websites with React"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -1783,7 +1783,7 @@
       "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8)"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -1809,7 +1809,7 @@
       "description": "Open source Node.js Headless CMS to easily build customisable APIs"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -1835,7 +1835,7 @@
       "description": "Fast and low overhead web framework, for Node.js"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -1861,7 +1861,7 @@
       "description": "The Simple, Secure Framework Developers Trust"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -1901,7 +1901,7 @@
       "description": "Delightful JavaScript Testing."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -1983,7 +1983,7 @@
       "description": "️ simple, flexible, fun javascript test framework for node.js & the browser"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2065,7 +2065,7 @@
       "description": "The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2018,
           "awarenessUsageInterestSatisfaction": {
@@ -2119,7 +2119,7 @@
       "description": "Fast, easy and reliable testing for anything that runs in a browser."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -2159,7 +2159,7 @@
       "description": "JavaScript Testing utilities for React"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2227,7 +2227,7 @@
       "description": "Node.js test runner that lets you develop with confidence"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2309,7 +2309,7 @@
       "description": "Simple JavaScript testing framework for browsers and node.js"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2391,7 +2391,7 @@
       "description": "Headless Chrome Node.js API"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -2431,7 +2431,7 @@
       "description": "Simple and complete React DOM testing utilities that encourage good testing practices."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2457,7 +2457,7 @@
       "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2483,7 +2483,7 @@
       "description": "Next-gen browser and mobile automation test framework for Node.js"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2509,7 +2509,7 @@
       "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2563,7 +2563,7 @@
       "description": "Blazing fast, zero configuration web application bundler"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2589,7 +2589,7 @@
       "description": "A toolkit to automate & enhance your workflow"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2643,7 +2643,7 @@
       "description": "Next-generation ES module bundler"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -2683,7 +2683,7 @@
       "description": "browser-side require() the node.js way"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -2737,7 +2737,7 @@
       "description": "A superset of JavaScript that compiles to clean JavaScript output."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2763,7 +2763,7 @@
       "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2789,7 +2789,7 @@
       "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2815,7 +2815,7 @@
       "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.\n"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2841,7 +2841,7 @@
       "description": "An extremely fast JavaScript bundler and minifier"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -2867,7 +2867,7 @@
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -2935,7 +2935,7 @@
       "description": null
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -3017,7 +3017,7 @@
       "description": "The majority of mobile and desktop apps are still built with native languages like Java, Kotlin, Objective-C, or Swift.\n"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -3099,7 +3099,7 @@
       "description": "Apache Cordova is a mobile application development framework.\n"
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2016,
           "awarenessUsageInterestSatisfaction": {
@@ -3181,7 +3181,7 @@
       "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2017,
           "awarenessUsageInterestSatisfaction": {
@@ -3249,7 +3249,7 @@
       "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -3289,7 +3289,7 @@
       "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2019,
           "awarenessUsageInterestSatisfaction": {
@@ -3329,7 +3329,7 @@
       "description": null
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {
@@ -3355,7 +3355,7 @@
       "description": "Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps, all using the same codebase."
     },
     "experience": {
-      "allYearDataList": [
+      "allYearsDataList": [
         {
           "year": 2020,
           "awarenessUsageInterestSatisfaction": {

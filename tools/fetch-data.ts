@@ -5,7 +5,7 @@ import { GetSurvey } from "./__generated__/get-survey";
 
 const ToolExperienceFragment = gql`
   fragment ToolExperienceFragment on ToolExperience {
-    allYearDataList: all_years {
+    allYearsDataList: all_years {
       year
       awarenessUsageInterestSatisfaction {
         awareness

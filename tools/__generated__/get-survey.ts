@@ -15,9 +15,8 @@ export type FeatureExpeienceFragment = {
     }) | null;
 };
 export type ToolExperienceFragment = {
-    allYearDataList: (({
+    allYearsDataList: (({
         year: number | null;
-        total: number | null;
         awarenessUsageInterestSatisfaction: ({
             awareness: number | null;
             usage: number | null;
@@ -25,6 +24,7 @@ export type ToolExperienceFragment = {
             satisfaction: number | null;
         }) | null;
         completion: ({
+            total: number | null;
             count: number | null;
             percentage: number | null;
         }) | null;
