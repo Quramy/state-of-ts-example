@@ -1,0 +1,3376 @@
+[
+  {
+    "entity": {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "libraries",
+      "description": "A superset of JavaScript that compiles to clean JavaScript output."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.3,
+            "usage": 25.1,
+            "interest": 53.4,
+            "satisfaction": 83
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 98.5,
+            "usage": 39.4,
+            "interest": 62.8,
+            "satisfaction": 85.3
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.6,
+            "usage": 52.1,
+            "interest": 71.1,
+            "satisfaction": 89.6
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20161,
+            "percentage": 99.5
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.7,
+            "usage": 65.8,
+            "interest": 65.7,
+            "satisfaction": 88.9
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20154,
+            "percentage": 92.8
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.7,
+            "usage": 77.7,
+            "interest": 70.4,
+            "satisfaction": 93
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21658,
+            "percentage": 91.1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "reason",
+      "name": "Reason",
+      "category": "languages",
+      "description": null
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 22.3,
+            "usage": 0.8,
+            "interest": 46.4,
+            "satisfaction": 69.7
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 48.3,
+            "usage": 6.4,
+            "interest": 53.1,
+            "satisfaction": 86.7
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20064,
+            "percentage": 99
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 47.9,
+            "usage": 4.5,
+            "interest": 42.9,
+            "satisfaction": 78.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20112,
+            "percentage": 92.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 45.1,
+            "usage": 4,
+            "interest": 35.1,
+            "satisfaction": 70.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21729,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "elm",
+      "name": "Elm",
+      "category": "languages",
+      "description": null
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 60.6,
+            "usage": 4.1,
+            "interest": 57.5,
+            "satisfaction": 83.6
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 69.7,
+            "usage": 6.4,
+            "interest": 52.9,
+            "satisfaction": 80.8
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 78.5,
+            "usage": 5.9,
+            "interest": 41.2,
+            "satisfaction": 73.4
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20158,
+            "percentage": 99.5
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 72.5,
+            "usage": 6.5,
+            "interest": 36.5,
+            "satisfaction": 71.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20119,
+            "percentage": 92.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 69,
+            "usage": 6.2,
+            "interest": 30,
+            "satisfaction": 63.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21768,
+            "percentage": 91.6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "clojurescript",
+      "name": "ClojureScript",
+      "category": "libraries",
+      "description": "Clojure to JS compiler"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 72.2,
+            "usage": 2.9,
+            "interest": 30.9,
+            "satisfaction": 66.6
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 71.5,
+            "usage": 3.5,
+            "interest": 29.8,
+            "satisfaction": 63.6
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 73.6,
+            "usage": 3.2,
+            "interest": 22.9,
+            "satisfaction": 72.1
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20125,
+            "percentage": 99.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 68.1,
+            "usage": 3.3,
+            "interest": 23,
+            "satisfaction": 59.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20122,
+            "percentage": 92.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 66.1,
+            "usage": 3,
+            "interest": 19.4,
+            "satisfaction": 58.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21765,
+            "percentage": 91.6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "purescript",
+      "name": "PureScript",
+      "category": "libraries",
+      "description": "A strongly-typed language that compiles to JavaScript"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 42.3,
+            "usage": 2.2,
+            "interest": 24,
+            "satisfaction": 69.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20091,
+            "percentage": 92.5
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 44.2,
+            "usage": 2.2,
+            "interest": 21.2,
+            "satisfaction": 72.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21784,
+            "percentage": 91.7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "react",
+      "name": "React",
+      "category": "libraries",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.5,
+            "usage": 52.6,
+            "interest": 75.3,
+            "satisfaction": 92.5
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.7,
+            "usage": 62,
+            "interest": 71.2,
+            "satisfaction": 93.1
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.9,
+            "usage": 71.5,
+            "interest": 67.5,
+            "satisfaction": 90.6
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20154,
+            "percentage": 99.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 100,
+            "usage": 80.2,
+            "interest": 60.9,
+            "satisfaction": 89.3
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20102,
+            "percentage": 92.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.9,
+            "usage": 80,
+            "interest": 58.1,
+            "satisfaction": 87.5
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21528,
+            "percentage": 90.6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "vuejs",
+      "name": "Vue.js",
+      "category": "libraries",
+      "description": "A progressive, incrementally-adoptable framework for building UI on the web"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 72.9,
+            "usage": 10,
+            "interest": 51.2,
+            "satisfaction": 87.2
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 94.5,
+            "usage": 21.5,
+            "interest": 70.3,
+            "satisfaction": 91.1
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 98.7,
+            "usage": 31.6,
+            "interest": 69.5,
+            "satisfaction": 91.2
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20146,
+            "percentage": 99.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.6,
+            "usage": 46.4,
+            "interest": 64.3,
+            "satisfaction": 87.1
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20106,
+            "percentage": 92.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.1,
+            "usage": 49,
+            "interest": 62.5,
+            "satisfaction": 85.2
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21649,
+            "percentage": 91.1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "angular",
+      "name": "Angular",
+      "category": "libraries",
+      "description": "One framework. Mobile & desktop."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 98.8,
+            "usage": 20,
+            "interest": 50.4,
+            "satisfaction": 67.9
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99,
+            "usage": 28.4,
+            "interest": 36.3,
+            "satisfaction": 66
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.9,
+            "usage": 57.7,
+            "interest": 24.6,
+            "satisfaction": 41.3
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20162,
+            "percentage": 99.5
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.8,
+            "usage": 57.7,
+            "interest": 23.1,
+            "satisfaction": 38
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20101,
+            "percentage": 92.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 99.7,
+            "usage": 55.8,
+            "interest": 20.7,
+            "satisfaction": 41.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21731,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "preact",
+      "name": "Preact",
+      "category": "libraries",
+      "description": "Fast 3kB React alternative with the same modern API. Components & Virtual DOM."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 71.9,
+            "usage": 7.4,
+            "interest": 42.6,
+            "satisfaction": 83.5
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20138,
+            "percentage": 99.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 75.6,
+            "usage": 12.2,
+            "interest": 40.4,
+            "satisfaction": 77.8
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20071,
+            "percentage": 92.4
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 76.9,
+            "usage": 13.4,
+            "interest": 39.5,
+            "satisfaction": 78
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21718,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "ember",
+      "name": "Ember",
+      "category": "libraries",
+      "description": "A JavaScript framework for creating ambitious web applications"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 95.6,
+            "usage": 14,
+            "interest": 27.3,
+            "satisfaction": 47
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 94.3,
+            "usage": 11.4,
+            "interest": 23.5,
+            "satisfaction": 41.4
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92.7,
+            "usage": 11.3,
+            "interest": 17.3,
+            "satisfaction": 44.6
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20149,
+            "percentage": 99.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 90.9,
+            "usage": 12,
+            "interest": 18.1,
+            "satisfaction": 30.4
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20089,
+            "percentage": 92.5
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 88,
+            "usage": 11.1,
+            "interest": 15.5,
+            "satisfaction": 27
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21734,
+            "percentage": 91.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "svelte",
+      "name": "Svelte",
+      "category": "libraries",
+      "description": "Cybernetically enhanced web apps"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 75.3,
+            "usage": 7.8,
+            "interest": 66.6,
+            "satisfaction": 87.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 20079,
+            "percentage": 92.5
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 86.4,
+            "usage": 14.5,
+            "interest": 66,
+            "satisfaction": 88.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21731,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "alpinejs",
+      "name": "Alpine.js",
+      "category": "libraries",
+      "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.\n"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 34,
+            "usage": 3.3,
+            "interest": 37.6,
+            "satisfaction": 82.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21726,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "litelement",
+      "name": "LitElement",
+      "category": "libraries",
+      "description": "A simple base class for creating fast, lightweight web components"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 26.9,
+            "usage": 5.4,
+            "interest": 39.4,
+            "satisfaction": 77.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21723,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "stimulus",
+      "name": "Stimulus",
+      "category": "libraries",
+      "description": "A modest JavaScript framework for the HTML you already have"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 16.7,
+            "usage": 1.3,
+            "interest": 27.1,
+            "satisfaction": 67.1
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21729,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "redux",
+      "name": "Redux",
+      "category": "libraries",
+      "description": "Predictable state container for JavaScript apps"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 86.6,
+            "usage": 36,
+            "interest": 81.1,
+            "satisfaction": 93.1
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 93.8,
+            "usage": 49.8,
+            "interest": 76.9,
+            "satisfaction": 90.9
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 95.9,
+            "usage": 57.4,
+            "interest": 69.9,
+            "satisfaction": 82.1
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20147,
+            "percentage": 99.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.4,
+            "usage": 67.4,
+            "interest": 61.8,
+            "satisfaction": 70.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19959,
+            "percentage": 91.9
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.1,
+            "usage": 66.8,
+            "interest": 55.1,
+            "satisfaction": 66.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21382,
+            "percentage": 90
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "apollo",
+      "name": "Apollo Client",
+      "category": "libraries",
+      "description": "A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 19.4,
+            "usage": 1.6,
+            "interest": 62.1,
+            "satisfaction": 84
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 32.3,
+            "usage": 5.7,
+            "interest": 74.3,
+            "satisfaction": 93.9
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 57.7,
+            "usage": 11.9,
+            "interest": 77.1,
+            "satisfaction": 92.9
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20129,
+            "percentage": 99.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 73.5,
+            "usage": 27.8,
+            "interest": 78.8,
+            "satisfaction": 89.8
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19942,
+            "percentage": 91.8
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 74.6,
+            "usage": 32.9,
+            "interest": 74.8,
+            "satisfaction": 87.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21469,
+            "percentage": 90.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "graphql",
+      "name": "GraphQL",
+      "category": "libraries",
+      "description": "GraphQL is a query language and execution engine tied to any backend service."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 63.4,
+            "usage": 5.6,
+            "interest": 76.2,
+            "satisfaction": 89.4
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 82.1,
+            "usage": 12.5,
+            "interest": 86.3,
+            "satisfaction": 94.2
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92.9,
+            "usage": 21.7,
+            "interest": 87.7,
+            "satisfaction": 94.2
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20121,
+            "percentage": 99.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.3,
+            "usage": 40.8,
+            "interest": 89.7,
+            "satisfaction": 94.8
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19956,
+            "percentage": 91.9
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.7,
+            "usage": 47.2,
+            "interest": 86.6,
+            "satisfaction": 93.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21527,
+            "percentage": 90.6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "mobx",
+      "name": "MobX",
+      "category": "libraries",
+      "description": "Simple, scalable state management."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 29.1,
+            "usage": 2.9,
+            "interest": 62.2,
+            "satisfaction": 79.1
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 46.3,
+            "usage": 6.2,
+            "interest": 56,
+            "satisfaction": 78.2
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 55.1,
+            "usage": 7.2,
+            "interest": 44.3,
+            "satisfaction": 77.7
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20124,
+            "percentage": 99.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 61.7,
+            "usage": 11.9,
+            "interest": 46.7,
+            "satisfaction": 69.5
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19928,
+            "percentage": 91.8
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 61.7,
+            "usage": 13.2,
+            "interest": 43.5,
+            "satisfaction": 63.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21518,
+            "percentage": 90.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "relay",
+      "name": "Relay",
+      "category": "libraries",
+      "description": "Relay is a JavaScript framework for building data-driven React applications."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 40.7,
+            "usage": 2.2,
+            "interest": 65,
+            "satisfaction": 69.5
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 39.6,
+            "usage": 3.1,
+            "interest": 65.5,
+            "satisfaction": 71.2
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 43.4,
+            "usage": 2.3,
+            "interest": 46.8,
+            "satisfaction": 45.8
+          },
+          "completion": {
+            "total": 20268,
+            "count": 20119,
+            "percentage": 99.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 47.7,
+            "usage": 4.2,
+            "interest": 51.6,
+            "satisfaction": 53.3
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19927,
+            "percentage": 91.8
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 47.2,
+            "usage": 4.4,
+            "interest": 48,
+            "satisfaction": 55.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21519,
+            "percentage": 90.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "xstate",
+      "name": "XState",
+      "category": "libraries",
+      "description": "State machines and statecharts for the modern web."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 31.8,
+            "usage": 4.9,
+            "interest": 60.2,
+            "satisfaction": 87
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21520,
+            "percentage": 90.6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "vuex",
+      "name": "Vuex",
+      "category": "libraries",
+      "description": "Centralized State Management for Vue.js."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 69.4,
+            "usage": 30.1,
+            "interest": 47.4,
+            "satisfaction": 87.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21554,
+            "percentage": 90.7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "express",
+      "name": "Express",
+      "category": "libraries",
+      "description": "Fast, unopinionated, minimalist web framework for node."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92,
+            "usage": 66.3,
+            "interest": 62.5,
+            "satisfaction": 92.5
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 93.7,
+            "usage": 68.6,
+            "interest": 64.9,
+            "satisfaction": 94.3
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19710,
+            "percentage": 97.2
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 95.5,
+            "usage": 77.3,
+            "interest": 66,
+            "satisfaction": 92.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19905,
+            "percentage": 91.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 96.8,
+            "usage": 80.1,
+            "interest": 63.3,
+            "satisfaction": 91.7
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21182,
+            "percentage": 89.1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "nextjs",
+      "name": "Next.js",
+      "category": "libraries",
+      "description": "The React Framework"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 63.2,
+            "usage": 9.8,
+            "interest": 65.6,
+            "satisfaction": 88.3
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19678,
+            "percentage": 97.1
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 86,
+            "usage": 27.2,
+            "interest": 73.3,
+            "satisfaction": 90.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19899,
+            "percentage": 91.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92.9,
+            "usage": 36.7,
+            "interest": 71.5,
+            "satisfaction": 92.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21328,
+            "percentage": 89.7
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "koa",
+      "name": "Koa",
+      "category": "libraries",
+      "description": "Expressive middleware for node.js using ES2017 async functions"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 46.8,
+            "usage": 11.1,
+            "interest": 49.8,
+            "satisfaction": 83.3
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 49.9,
+            "usage": 8.9,
+            "interest": 43,
+            "satisfaction": 84.8
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19690,
+            "percentage": 97.1
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 55.5,
+            "usage": 14.1,
+            "interest": 44.2,
+            "satisfaction": 80.2
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19865,
+            "percentage": 91.5
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 56.4,
+            "usage": 15.5,
+            "interest": 40,
+            "satisfaction": 76
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21364,
+            "percentage": 89.9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "meteor",
+      "name": "Meteor",
+      "category": "libraries",
+      "description": "Meteor, the JavaScript App Platform"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 88.8,
+            "usage": 18.2,
+            "interest": 39.1,
+            "satisfaction": 59.8
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 85.3,
+            "usage": 15.1,
+            "interest": 32.5,
+            "satisfaction": 45.3
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 80,
+            "usage": 12.4,
+            "interest": 26.9,
+            "satisfaction": 37.6
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19699,
+            "percentage": 97.2
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 76.5,
+            "usage": 13.1,
+            "interest": 26.6,
+            "satisfaction": 27.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19853,
+            "percentage": 91.4
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 73.2,
+            "usage": 12.3,
+            "interest": 24,
+            "satisfaction": 27.7
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21396,
+            "percentage": 90
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "sails",
+      "name": "Sails",
+      "category": "libraries",
+      "description": "Realtime MVC Framework for Node.js"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 44,
+            "usage": 7.3,
+            "interest": 27.9,
+            "satisfaction": 36.4
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 46.1,
+            "usage": 6.1,
+            "interest": 23.3,
+            "satisfaction": 28.1
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19681,
+            "percentage": 97.1
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 46.5,
+            "usage": 7.9,
+            "interest": 23.6,
+            "satisfaction": 26.1
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19849,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "feathers",
+      "name": "Feathers",
+      "category": "libraries",
+      "description": "A framework for real-time applications and REST APIs with JavaScript and TypeScript"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 20.2,
+            "usage": 1.5,
+            "interest": 34.8,
+            "satisfaction": 60.8
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 21.6,
+            "usage": 2.6,
+            "interest": 37.1,
+            "satisfaction": 71.5
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 24.6,
+            "usage": 2.3,
+            "interest": 26.8,
+            "satisfaction": 68.5
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19683,
+            "percentage": 97.1
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 33.9,
+            "usage": 3.6,
+            "interest": 30.1,
+            "satisfaction": 52.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19848,
+            "percentage": 91.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "nuxt",
+      "name": "Nuxt",
+      "category": "libraries",
+      "description": "The Intuitive Vue Framework"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 72.3,
+            "usage": 16.8,
+            "interest": 47.3,
+            "satisfaction": 88
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21418,
+            "percentage": 90.1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "gatsby",
+      "name": "Gatsby",
+      "category": "libraries",
+      "description": "Build blazing fast, modern apps and websites with React"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 77.7,
+            "usage": 24.8,
+            "interest": 66.2,
+            "satisfaction": 88.4
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19845,
+            "percentage": 91.4
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 84.2,
+            "usage": 28.1,
+            "interest": 54.7,
+            "satisfaction": 69.5
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21458,
+            "percentage": 90.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "nest",
+      "name": "Nest",
+      "category": "libraries",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8)"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 51.9,
+            "usage": 12.8,
+            "interest": 53.4,
+            "satisfaction": 87.1
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21450,
+            "percentage": 90.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "strapi",
+      "name": "Strapi",
+      "category": "libraries",
+      "description": "Open source Node.js Headless CMS to easily build customisable APIs"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 37.9,
+            "usage": 9.1,
+            "interest": 53,
+            "satisfaction": 78.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21449,
+            "percentage": 90.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "fastify",
+      "name": "Fastify",
+      "category": "libraries",
+      "description": "Fast and low overhead web framework, for Node.js"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 31.9,
+            "usage": 6,
+            "interest": 54.8,
+            "satisfaction": 89.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21450,
+            "percentage": 90.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "hapi",
+      "name": "Hapi",
+      "category": "libraries",
+      "description": "The Simple, Secure Framework Developers Trust"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 43.5,
+            "usage": 9.1,
+            "interest": 42.7,
+            "satisfaction": 72.6
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 44.3,
+            "usage": 9.2,
+            "interest": 34.4,
+            "satisfaction": 59.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21444,
+            "percentage": 90.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "jest",
+      "name": "Jest",
+      "category": "libraries",
+      "description": "Delightful JavaScript Testing."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 36.1,
+            "usage": 8,
+            "interest": 59,
+            "satisfaction": 58.8
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 62,
+            "usage": 26.4,
+            "interest": 76.7,
+            "satisfaction": 93.7
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 79.7,
+            "usage": 41.1,
+            "interest": 76.9,
+            "satisfaction": 96.5
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19944,
+            "percentage": 98.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 91.5,
+            "usage": 63.5,
+            "interest": 81.6,
+            "satisfaction": 96.4
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19788,
+            "percentage": 91.1
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92.9,
+            "usage": 68.3,
+            "interest": 82,
+            "satisfaction": 96.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 20956,
+            "percentage": 88.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "mocha",
+      "name": "Mocha",
+      "category": "libraries",
+      "description": "️ simple, flexible, fun javascript test framework for node.js & the browser"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 88.8,
+            "usage": 48.5,
+            "interest": 74.4,
+            "satisfaction": 93.8
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 90.5,
+            "usage": 51.8,
+            "interest": 71.8,
+            "satisfaction": 87.3
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 89.9,
+            "usage": 47.9,
+            "interest": 62.6,
+            "satisfaction": 82.3
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19941,
+            "percentage": 98.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 91.9,
+            "usage": 54.1,
+            "interest": 58.5,
+            "satisfaction": 77.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19784,
+            "percentage": 91.1
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 90.9,
+            "usage": 52.7,
+            "interest": 54.4,
+            "satisfaction": 74
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21145,
+            "percentage": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "storybook",
+      "name": "Storybook",
+      "category": "libraries",
+      "description": "The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 47.3,
+            "usage": 17.3,
+            "interest": 79.6,
+            "satisfaction": 89.1
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19995,
+            "percentage": 98.7
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 68.7,
+            "usage": 35.1,
+            "interest": 77.4,
+            "satisfaction": 91.9
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19768,
+            "percentage": 91
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 75.1,
+            "usage": 42.1,
+            "interest": 77.6,
+            "satisfaction": 91.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21194,
+            "percentage": 89.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "cypress",
+      "name": "Cypress",
+      "category": "libraries",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 63.1,
+            "usage": 25.6,
+            "interest": 75.7,
+            "satisfaction": 93.2
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19777,
+            "percentage": 91.1
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 73.8,
+            "usage": 35.1,
+            "interest": 77.1,
+            "satisfaction": 93.7
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21226,
+            "percentage": 89.3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "enzyme",
+      "name": "Enzyme",
+      "category": "libraries",
+      "description": "JavaScript Testing utilities for React"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 30.7,
+            "usage": 11,
+            "interest": 69.9,
+            "satisfaction": 94.9
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 42.9,
+            "usage": 20.5,
+            "interest": 63.9,
+            "satisfaction": 94.4
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 53.4,
+            "usage": 22.9,
+            "interest": 59.5,
+            "satisfaction": 88.4
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19915,
+            "percentage": 98.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 61.3,
+            "usage": 33.1,
+            "interest": 55.6,
+            "satisfaction": 71.3
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19775,
+            "percentage": 91.1
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "ava",
+      "name": "AVA",
+      "category": "libraries",
+      "description": "Node.js test runner that lets you develop with confidence"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 19.7,
+            "usage": 4.4,
+            "interest": 63.5,
+            "satisfaction": 85.4
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 23.9,
+            "usage": 6.6,
+            "interest": 53.1,
+            "satisfaction": 75
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 27.8,
+            "usage": 5.6,
+            "interest": 39.3,
+            "satisfaction": 71.6
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19943,
+            "percentage": 98.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 30.6,
+            "usage": 8,
+            "interest": 38.4,
+            "satisfaction": 63.3
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19742,
+            "percentage": 90.9
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 27.7,
+            "usage": 7.8,
+            "interest": 36.6,
+            "satisfaction": 61.1
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21248,
+            "percentage": 89.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "jasmine",
+      "name": "Jasmine",
+      "category": "libraries",
+      "description": "Simple JavaScript testing framework for browsers and node.js"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 88,
+            "usage": 47.7,
+            "interest": 68.4,
+            "satisfaction": 83.3
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 87.2,
+            "usage": 48.9,
+            "interest": 63.7,
+            "satisfaction": 79.6
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 85.7,
+            "usage": 38.2,
+            "interest": 52.4,
+            "satisfaction": 74.8
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19929,
+            "percentage": 98.3
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 80.2,
+            "usage": 42.8,
+            "interest": 44.6,
+            "satisfaction": 67
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19766,
+            "percentage": 91
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 78,
+            "usage": 42,
+            "interest": 40.4,
+            "satisfaction": 62.2
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21257,
+            "percentage": 89.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "puppeteer",
+      "name": "Puppeteer",
+      "category": "libraries",
+      "description": "Headless Chrome Node.js API"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 67,
+            "usage": 27.3,
+            "interest": 68.5,
+            "satisfaction": 89.1
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19742,
+            "percentage": 90.9
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 73.3,
+            "usage": 33.5,
+            "interest": 65.5,
+            "satisfaction": 87.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21266,
+            "percentage": 89.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "testing_library",
+      "name": "Testing Library",
+      "category": "libraries",
+      "description": "Simple and complete React DOM testing utilities that encourage good testing practices."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 43.9,
+            "usage": 26.4,
+            "interest": 74.3,
+            "satisfaction": 96.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21278,
+            "percentage": 89.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "playwright",
+      "name": "Playwright",
+      "category": "libraries",
+      "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 18.4,
+            "usage": 3.3,
+            "interest": 69.7,
+            "satisfaction": 93.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21264,
+            "percentage": 89.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "webdriverio",
+      "name": "WebdriverIO",
+      "category": "libraries",
+      "description": "Next-gen browser and mobile automation test framework for Node.js"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 24.5,
+            "usage": 9.9,
+            "interest": 46.1,
+            "satisfaction": 53.2
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21282,
+            "percentage": 89.6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "webpack",
+      "name": "webpack",
+      "category": "libraries",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 90.1,
+            "usage": 53.2,
+            "interest": 78,
+            "satisfaction": 92.6
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 96.5,
+            "usage": 73.1,
+            "interest": 83.5,
+            "satisfaction": 95.2
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 98.8,
+            "usage": 88.7,
+            "interest": 75.7,
+            "satisfaction": 87.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 20891,
+            "percentage": 87.9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "parcel",
+      "name": "Parcel",
+      "category": "libraries",
+      "description": "Blazing fast, zero configuration web application bundler"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 69,
+            "usage": 27.4,
+            "interest": 65.4,
+            "satisfaction": 85.2
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21029,
+            "percentage": 88.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "gulp",
+      "name": "Gulp",
+      "category": "libraries",
+      "description": "A toolkit to automate & enhance your workflow"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.4,
+            "usage": 73.5,
+            "interest": 54.5,
+            "satisfaction": 75.8
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.5,
+            "usage": 74.4,
+            "interest": 45.8,
+            "satisfaction": 63.4
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92,
+            "usage": 65.1,
+            "interest": 31.2,
+            "satisfaction": 35
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21148,
+            "percentage": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "rollup",
+      "name": "Rollup",
+      "category": "libraries",
+      "description": "Next-generation ES module bundler"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 45.7,
+            "usage": 10.8,
+            "interest": 61.8,
+            "satisfaction": 79.6
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 66.1,
+            "usage": 30.1,
+            "interest": 60.3,
+            "satisfaction": 84.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21132,
+            "percentage": 88.9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "browserify",
+      "name": "Browserify",
+      "category": "libraries",
+      "description": "browser-side require() the node.js way"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 91,
+            "usage": 47,
+            "interest": 46.3,
+            "satisfaction": 63
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 90.9,
+            "usage": 46.5,
+            "interest": 34.2,
+            "satisfaction": 47.4
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 74.5,
+            "usage": 34.9,
+            "interest": 30.9,
+            "satisfaction": 34.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21149,
+            "percentage": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "libraries",
+      "description": "A superset of JavaScript that compiles to clean JavaScript output."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 86.4,
+            "usage": 61.7,
+            "interest": 63.9,
+            "satisfaction": 92.3
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21200,
+            "percentage": 89.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "rome",
+      "name": "Rome",
+      "category": "libraries",
+      "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 29.7,
+            "usage": 0.8,
+            "interest": 75.4,
+            "satisfaction": 60
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21154,
+            "percentage": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "snowpack",
+      "name": "Snowpack",
+      "category": "libraries",
+      "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 36.3,
+            "usage": 5.4,
+            "interest": 81.3,
+            "satisfaction": 93.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21187,
+            "percentage": 89.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "swc",
+      "name": "SWC",
+      "category": "libraries",
+      "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.\n"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 8.4,
+            "usage": 0.9,
+            "interest": 58.8,
+            "satisfaction": 79.6
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21150,
+            "percentage": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "esbuild",
+      "name": "esbuild",
+      "category": "libraries",
+      "description": "An extremely fast JavaScript bundler and minifier"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 26.3,
+            "usage": 5.5,
+            "interest": 76.5,
+            "satisfaction": 93.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21195,
+            "percentage": 89.2
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "electron",
+      "name": "Electron",
+      "category": "libraries",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 83.5,
+            "usage": 22.5,
+            "interest": 77.6,
+            "satisfaction": 92.8
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 91.1,
+            "usage": 22.5,
+            "interest": 77.5,
+            "satisfaction": 87.1
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19963,
+            "percentage": 98.5
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 92.6,
+            "usage": 29.9,
+            "interest": 73.1,
+            "satisfaction": 85.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19709,
+            "percentage": 90.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 94.6,
+            "usage": 33.2,
+            "interest": 72.1,
+            "satisfaction": 88.5
+          },
+          "completion": {
+            "total": 23765,
+            "count": 20879,
+            "percentage": 87.9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "reactnative",
+      "name": "React Native",
+      "category": "libraries",
+      "description": null
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 91.4,
+            "usage": 13.9,
+            "interest": 77.6,
+            "satisfaction": 91.4
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 95.7,
+            "usage": 21.6,
+            "interest": 76.9,
+            "satisfaction": 92.9
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 97.7,
+            "usage": 22.3,
+            "interest": 70.6,
+            "satisfaction": 83.8
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19963,
+            "percentage": 98.5
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 98.5,
+            "usage": 33.1,
+            "interest": 67.8,
+            "satisfaction": 82.1
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19735,
+            "percentage": 90.9
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 98.7,
+            "usage": 34.9,
+            "interest": 63.2,
+            "satisfaction": 81.7
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21008,
+            "percentage": 88.4
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "nativeapps",
+      "name": "Native Apps",
+      "category": "libraries",
+      "description": "The majority of mobile and desktop apps are still built with native languages like Java, Kotlin, Objective-C, or Swift.\n"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 94.8,
+            "usage": 35.2,
+            "interest": 65.2,
+            "satisfaction": 84.6
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 94.9,
+            "usage": 39,
+            "interest": 68.9,
+            "satisfaction": 85.8
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 71.9,
+            "usage": 13.5,
+            "interest": 48,
+            "satisfaction": 78.9
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19889,
+            "percentage": 98.1
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 80.2,
+            "usage": 18.3,
+            "interest": 59.3,
+            "satisfaction": 77.5
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19691,
+            "percentage": 90.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 53.5,
+            "usage": 12.6,
+            "interest": 57.1,
+            "satisfaction": 79.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21040,
+            "percentage": 88.5
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "cordova",
+      "name": "Cordova",
+      "category": "libraries",
+      "description": "Apache Cordova is a mobile application development framework.\n"
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2016,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 85,
+            "usage": 34.4,
+            "interest": 40.3,
+            "satisfaction": 58.3
+          },
+          "completion": {
+            "total": 10258,
+            "count": 10257,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 86.5,
+            "usage": 34,
+            "interest": 26.2,
+            "satisfaction": 41.9
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 86.1,
+            "usage": 29.8,
+            "interest": 21,
+            "satisfaction": 34.3
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19949,
+            "percentage": 98.4
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 81.4,
+            "usage": 31,
+            "interest": 20.6,
+            "satisfaction": 28
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19709,
+            "percentage": 90.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 81.1,
+            "usage": 34.2,
+            "interest": 19.1,
+            "satisfaction": 30.1
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21133,
+            "percentage": 88.9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "ionic",
+      "name": "Ionic",
+      "category": "libraries",
+      "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2017,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 75.6,
+            "usage": 20.3,
+            "interest": 38.8,
+            "satisfaction": 51
+          },
+          "completion": {
+            "total": 23706,
+            "count": 23706,
+            "percentage": 100
+          }
+        },
+        {
+          "year": 2018,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 76.6,
+            "usage": 16.2,
+            "interest": 29.5,
+            "satisfaction": 51.5
+          },
+          "completion": {
+            "total": 20268,
+            "count": 19966,
+            "percentage": 98.5
+          }
+        },
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 80.9,
+            "usage": 23.3,
+            "interest": 33,
+            "satisfaction": 40.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19688,
+            "percentage": 90.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 82.3,
+            "usage": 28.8,
+            "interest": 31.6,
+            "satisfaction": 51.7
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21144,
+            "percentage": 89
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "nwjs",
+      "name": "NW.js",
+      "category": "libraries",
+      "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 24.3,
+            "usage": 4.7,
+            "interest": 22.8,
+            "satisfaction": 32.6
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19687,
+            "percentage": 90.6
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 20.2,
+            "usage": 4.4,
+            "interest": 26,
+            "satisfaction": 35
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21102,
+            "percentage": 88.8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "expo",
+      "name": "Expo",
+      "category": "libraries",
+      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2019,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 38.6,
+            "usage": 19.9,
+            "interest": 43.8,
+            "satisfaction": 73.7
+          },
+          "completion": {
+            "total": 21718,
+            "count": 19701,
+            "percentage": 90.7
+          }
+        },
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 40.4,
+            "usage": 23.4,
+            "interest": 47.9,
+            "satisfaction": 76.2
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21101,
+            "percentage": 88.8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "capacitor",
+      "name": "Capacitor",
+      "category": "libraries",
+      "description": null
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 26.1,
+            "usage": 9.5,
+            "interest": 46,
+            "satisfaction": 83.8
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21104,
+            "percentage": 88.8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "entity": {
+      "id": "quasar",
+      "name": "Quasar",
+      "category": "libraries",
+      "description": "Responsive Single Page Apps, Server-side Render Apps, Progressive Web Apps, Hybrid Mobile Apps (that look native!) & Electron Apps, all using the same codebase."
+    },
+    "experience": {
+      "allYearDataList": [
+        {
+          "year": 2020,
+          "awarenessUsageInterestSatisfaction": {
+            "awareness": 19.1,
+            "usage": 3.5,
+            "interest": 36.2,
+            "satisfaction": 69.9
+          },
+          "completion": {
+            "total": 23765,
+            "count": 21098,
+            "percentage": 88.8
+          }
+        }
+      ]
+    }
+  }
+]

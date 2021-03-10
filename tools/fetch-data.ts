@@ -5,8 +5,8 @@ import { GetSurvey } from "./__generated__/get-survey";
 
 const ToolExperienceFragment = gql`
   fragment ToolExperienceFragment on ToolExperience {
-    latestYearData: year(year: 2020) {
-      total
+    allYearDataList: all_years {
+      year
       awarenessUsageInterestSatisfaction {
         awareness
         usage
@@ -14,6 +14,7 @@ const ToolExperienceFragment = gql`
         satisfaction
       }
       completion {
+        total
         count
         percentage
       }
@@ -87,21 +88,81 @@ const query = gql`
           ...FeatureExpeienceFragment
         }
       }
-      toolsData: tools(ids: [typescript, elm, clojurescript, reason]) {
-        id
-        USA: experience(filters: { country: { in: [USA] } }) {
-          ...ToolExperienceFragment
-        }
-        JPN: experience(filters: { country: { in: [JPN] } }) {
-          ...ToolExperienceFragment
-        }
+      toolsData: tools(
+        ids: [
+          typescript
+          reason
+          elm
+          clojurescript
+          purescript
+          react
+          vuejs
+          angular
+          preact
+          ember
+          svelte
+          alpinejs
+          litelement
+          stimulus
+          redux
+          apollo
+          graphql
+          mobx
+          relay
+          xstate
+          vuex
+          express
+          nextjs
+          koa
+          meteor
+          sails
+          feathers
+          nuxt
+          gatsby
+          nest
+          strapi
+          fastify
+          hapi
+          jest
+          mocha
+          storybook
+          cypress
+          enzyme
+          ava
+          jasmine
+          puppeteer
+          testing_library
+          playwright
+          webdriverio
+          webpack
+          parcel
+          gulp
+          rollup
+          browserify
+          tsc
+          rome
+          snowpack
+          swc
+          esbuild
+          electron
+          reactnative
+          nativeapps
+          cordova
+          ionic
+          nwjs
+          expo
+          capacitor
+          quasar
+        ]
+      ) {
         entity {
+          id
           name
+          category
           description
-          homepage
-          github {
-            url
-          }
+        }
+        experience {
+          ...ToolExperienceFragment
         }
       }
     }
@@ -109,11 +170,10 @@ const query = gql`
 `;
 
 const bucketOrder = {
-  "used": 0,
-  "heard": 1,
-  "never_heard": 2
+  used: 0,
+  heard: 1,
+  never_heard: 2
 };
-  
 
 async function fetchData() {
   const data = await request<GetSurvey>(
@@ -121,10 +181,20 @@ async function fetchData() {
     query
   );
   const featuresData = data?.survey?.featuresData;
-  featuresData?.forEach(d => d?.experience?.latestYearData?.buckets?.sort((b1, b2) => bucketOrder[b1?.type!] - bucketOrder[b2?.type!]));
+  const toolsData = data?.survey?.toolsData;
+  featuresData?.forEach(d =>
+    d?.experience?.latestYearData?.buckets?.sort(
+      (b1, b2) => bucketOrder[b1?.type!] - bucketOrder[b2?.type!]
+    )
+  );
   await fs.writeFile(
     path.resolve(__dirname, "../data/features-data.json"),
     JSON.stringify(featuresData, null, 2),
+    "utf8"
+  );
+  await fs.writeFile(
+    path.resolve(__dirname, "../data/tools-data.json"),
+    JSON.stringify(toolsData, null, 2),
     "utf8"
   );
 }

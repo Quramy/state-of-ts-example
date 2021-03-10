@@ -15,7 +15,8 @@ export type FeatureExpeienceFragment = {
     }) | null;
 };
 export type ToolExperienceFragment = {
-    latestYearData: ({
+    allYearDataList: (({
+        year: number | null;
         total: number | null;
         awarenessUsageInterestSatisfaction: ({
             awareness: number | null;
@@ -27,7 +28,7 @@ export type ToolExperienceFragment = {
             count: number | null;
             percentage: number | null;
         }) | null;
-    }) | null;
+    }) | null)[] | null;
 };
 export type GetSurvey = {
     survey: ({
@@ -40,17 +41,13 @@ export type GetSurvey = {
             experience: (FeatureExpeienceFragment) | null;
         }) | null)[] | null;
         toolsData: (({
-            id: "typescript" | "reason" | "elm" | "clojurescript" | "purescript" | "react" | "vuejs" | "angular" | "preact" | "ember" | "svelte" | "alpinejs" | "litelement" | "stimulus" | "redux" | "apollo" | "graphql" | "mobx" | "relay" | "xstate" | "vuex" | "express" | "nextjs" | "koa" | "meteor" | "sails" | "feathers" | "nuxt" | "gatsby" | "nest" | "strapi" | "fastify" | "hapi" | "jest" | "mocha" | "storybook" | "cypress" | "enzyme" | "ava" | "jasmine" | "puppeteer" | "testing_library" | "playwright" | "webdriverio" | "webpack" | "parcel" | "gulp" | "rollup" | "browserify" | "tsc" | "rome" | "snowpack" | "swc" | "esbuild" | "electron" | "reactnative" | "nativeapps" | "cordova" | "ionic" | "nwjs" | "expo" | "capacitor" | "quasar" | "sass" | "less" | "post_css" | "stylus" | "bootstrap" | "materialize_css" | "ant_design" | "semantic_ui" | "bulma" | "foundation" | "ui_kit" | "tachyons" | "primer" | "tailwind_css" | "pure_css" | "skeleton" | "spectre_css" | "bem" | "atomic_css" | "oocss" | "smacss" | "it_css" | "cube_css" | "styled_components" | "jss" | "styled_jsx" | "radium" | "emotion" | "css_modules" | "styled_system" | "stitches" | "styletron" | "fela" | "linaria" | "astroturf";
-            USA: (ToolExperienceFragment) | null;
-            JPN: (ToolExperienceFragment) | null;
             entity: ({
+                id: string | null;
                 name: string | null;
+                category: string | null;
                 description: string | null;
-                homepage: string | null;
-                github: ({
-                    url: string | null;
-                }) | null;
             }) | null;
+            experience: (ToolExperienceFragment) | null;
         }) | null)[] | null;
     }) | null;
 };
