@@ -78,7 +78,7 @@
 
 ## Step 1
 
-まずは[ボスの書きかけた集計スクリプト](https://tsplay.dev/mA7VXw)を完成させてください。
+まずは[ボスの書きかけた集計スクリプト](https://tsplay.dev/Nn6QaN)を完成させてください。
 
 コンソールに下記が出力されるよう、コードを修正しましょう。
 
@@ -195,7 +195,8 @@ function filterDataset(dataSet) {
     return data.experience.latestYearData.bucket[2].percentage >= 15;
   });
 
-  // TODO 後でソートする!!
+  // TODO 後でソートする
+  // ソート条件は、「何のことか知らない」の割合が大きい順で！
   return filtered;
 }
 
@@ -308,42 +309,29 @@ const exampleDataSet = [
 ]; // 後で本物のデータに差し替える
 
 function filterDataset(dataSet) {
-// buckets の要素は、その技術要素を「使ったことがある, 使ったことは無いが何かは知っている, 何のことか知らない」と回答した人の人数と割合を表している
-// ここでは「何のことかしらない」と回答した人の比率が 15% 以上のデータに絞り込む
-const filtered = dataSet.filter(data => {
-return data.experience.latestYearData.bucket[2].percentage >= 15;
-});
+  // bucketsの要素は、その技術要素を「使ったことがある, 使ったことは無いが何かは知っている, 何のことか知らない」と回答した人の人数と割合を表している
+  // ここでは「何のことかしらない」と回答した人の比率が15% 以上のデータに絞り込む
+  const filtered = dataSet.filter(data => {
+    return data.experience.latestYearData.bucket[2].percentage >= 15;
+  });
 
-// TODO 後でソートする!!
-return filtered;
+  // TODO 後でソートする
+  // ソート条件は、「何のことか知らない」の割合が大きい順で！
+  return filtered;
 }
 
 function fetchData() {
-// TODO 後で調査データを fetch API で取得するように書き換える！！
-return exampleDataSet;
+  // TODO 後で調査データを fetch API で取得するように書き換える！！
+  return exampleDataSet;
 }
 
 function main() {
-const dataSet = fetchData();
+  const dataSet = fetchData();
 
-console.log(filterDataset(dataSet).map(item => item.name));
+  console.log(filterDataset(dataSet).map(item => item.name));
 }
 
 main();
-</Playground>
-
----
-
-ヒント: まずは dataSet の要素の型定義を作っていくとよいでしょう。
-
-```ts
-type DataItem = {
-  /* データの型 */
-};
-
-const exampleDataSet: DataItem[] = [
-  // 略
-];
 ```
 
 ---
@@ -356,7 +344,7 @@ const exampleDataSet: DataItem[] = [
 
 - 実際のライブラリの代わりに、以降のコードを書き足してください
 - `renderBarGraph` 関数の中身を気にする必要はありません。**型定義だけを読みましょう**
-- `(dataSet: DataItem) => GraphItem[]` となるような関数 `mapToGraphItem` を作成してください
+- `(dataSet: DataItem[]) => GraphItem[]` となるような関数 `mapToGraphItem` を作成してください
 - グラフの色には CSS で利用可能な文字列（e.g. `red`, `#ee0000` ）を代入できます。好きな色を指定してください
 
 ---

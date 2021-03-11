@@ -98,7 +98,8 @@ function filterDataset(dataSet) {
     return data.experience.latestYearData.bucket[2].percentage >= 15;
   });
 
-  // TODO 後でソートする!!
+  // TODO 後でソートする
+  // ソート条件は、「何のことか知らない」の割合が大きい順で！
   return filtered;
 }
 
