@@ -195,7 +195,6 @@ type GraphItem = {
  * 与えられたデータを元に割合を棒グラフとして描画します。
  *
  * @param data: @see GraphItem 型の配列。この配列の要素の個数分の棒グラフを描画します。
- * @returns グラフが描画されたSVG要素のHTML文字列
  *
  **/
 function renderBarGraph(data: GraphItem[]) {
@@ -231,8 +230,11 @@ function renderBarGraph(data: GraphItem[]) {
       `;
     })
     .join("");
-  return `<svg height="${
+  const svg = `<svg height="${
     renderItems.length * 40
   }" width="100%">${groups}</svg>`;
+  const logItem = document.createElement("div");
+  logItem.innerHTML = svg;
+  setTimeout(() => document.getElementById("log")!.append(logItem), 32);
 }
 //// 提供されるグラフ描画関数 ここまで
