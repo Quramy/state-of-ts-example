@@ -309,26 +309,26 @@ const exampleDataSet = [
 ]; // 後で本物のデータに差し替える
 
 function filterDataset(dataSet) {
-  // bucketsの要素は、その技術要素を「使ったことがある, 使ったことは無いが何かは知っている, 何のことか知らない」と回答した人の人数と割合を表している
-  // ここでは「何のことかしらない」と回答した人の比率が15% 以上のデータに絞り込む
-  const filtered = dataSet.filter(data => {
-    return data.experience.latestYearData.bucket[2].percentage >= 15;
-  });
+// buckets の要素は、その技術要素を「使ったことがある, 使ったことは無いが何かは知っている, 何のことか知らない」と回答した人の人数と割合を表している
+// ここでは「何のことかしらない」と回答した人の比率が 15% 以上のデータに絞り込む
+const filtered = dataSet.filter(data => {
+return data.experience.latestYearData.bucket[2].percentage >= 15;
+});
 
-  // TODO 後でソートする
-  // ソート条件は、「何のことか知らない」の割合が大きい順で！
-  return filtered;
+// TODO 後でソートする
+// ソート条件は、「何のことか知らない」の割合が大きい順で！
+return filtered;
 }
 
 function fetchData() {
-  // TODO 後で調査データを fetch API で取得するように書き換える！！
-  return exampleDataSet;
+// TODO 後で調査データを fetch API で取得するように書き換える！！
+return exampleDataSet;
 }
 
 function main() {
-  const dataSet = fetchData();
+const dataSet = fetchData();
 
-  console.log(filterDataset(dataSet).map(item => item.name));
+console.log(filterDataset(dataSet).map(item => item.name));
 }
 
 main();
@@ -427,12 +427,11 @@ function renderBarGraph(data: GraphItem[]) {
 
 ---
 
-JSON データを取得できるようになったら、 取得したデータに `filterDataset` 関数, `mapToGraphItem` を作用させてグラフ（SVG 文字列）を取得し、その結果を `console.log` で確認してみましょう。
+JSON データを取得できるようになったら、 取得したデータに `filterDataset` 関数, `mapToGraphItem` を作用させてグラフを描画してみましょう！
 
 ```ts
 const filtered = filterDataset(dataSet);
-const graph = renderBarGraph(mapToGraphItem(filtered));
-console.log(graph);
+renderBarGraph(mapToGraphItem(filtered));
 ```
 
 ---

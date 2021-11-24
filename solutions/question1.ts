@@ -168,8 +168,7 @@ async function fetchData() {
 async function main() {
   const dataSet = await fetchData();
   const filtered = filterDataset(dataSet);
-  const graph = renderBarGraph(mapToGraphItem(filtered));
-  console.log(graph);
+  renderBarGraph(mapToGraphItem(filtered));
 }
 
 main();
